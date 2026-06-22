@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "games": [
     {
       "id": "sleeplikeababy",
@@ -26,7 +26,7 @@
       "name": "AstroX",
       "tagline": "Dodge everything, stay alive",
       "iconUrl": "https://lancecabson.github.io/moregames/icons/astrox.png",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.astrox",
+      "androidUrl": "",
       "iosUrl": "",
       "url": "",
       "bundleIds": ["com.iphonegamesapps.astrox"]
