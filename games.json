@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "games": [
     {
       "id": "sleeplikeababy",
@@ -24,7 +24,7 @@
     {
       "id": "astrox",
       "name": "AstroX",
-      "tagline": "Fast-paced space arcade",
+      "tagline": "Dodge everything, stay alive",
       "iconUrl": "https://lancecabson.github.io/moregames/icons/astrox.png",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.astrox",
       "iosUrl": "",
