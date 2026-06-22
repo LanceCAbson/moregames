@@ -1,0 +1,85 @@
+{
+  "version": 2,
+  "games": [
+    {
+      "id": "sleeplikeababy",
+      "name": "Sleep like a Baby",
+      "tagline": "Relaxing sounds & sleep timer",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/e4/d7/d8e4d72c-43c0-5d44-c49f-44ccfbe158fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.sleeplikeababy",
+      "iosUrl": "https://apps.apple.com/app/id1239102281",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.sleeplikeababy"]
+    },
+    {
+      "id": "sugarcubes",
+      "name": "Sugar Cubes",
+      "tagline": "Addictive block puzzle",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/f6/e6/75f6e6fc-4f1a-efce-2bd6-13fc150bbb4e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.sugarcubesblockpuzzle",
+      "iosUrl": "https://apps.apple.com/app/id6768653177",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.sugarcubesblockpuzzle"]
+    },
+    {
+      "id": "astrox",
+      "name": "AstroX",
+      "tagline": "Fast-paced space arcade",
+      "iconUrl": "https://lancecabson.github.io/moregames/icons/astrox.png",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.astrox",
+      "iosUrl": "",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.astrox"]
+    },
+    {
+      "id": "dingdong2",
+      "name": "Ding Dong Delivery",
+      "tagline": "Frantic delivery dash",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/00/17/dd0017f9-ee77-1761-fa9a-b2761a048b19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.dingdongdelivery2",
+      "iosUrl": "https://apps.apple.com/app/id1068910435",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.dingdongdelivery2", "com.iphonegamesapps.dingdongdelivery"]
+    },
+    {
+      "id": "mystic",
+      "name": "Mystic Maven",
+      "tagline": "AI mind-reader & mystery game",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/ac/47/a9ac471e-8290-3505-8396-d2e708bf41a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.mystic",
+      "iosUrl": "https://apps.apple.com/app/id6478532849",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.mystic"]
+    },
+    {
+      "id": "adventureai",
+      "name": "AI Adventure",
+      "tagline": "Your story RPG, powered by AI",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/d1/4e/56d14eb6-84d6-f7dc-36bb-a762fc03ceb6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.adventureai",
+      "iosUrl": "https://apps.apple.com/app/id1667095330",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.adventureai"]
+    },
+    {
+      "id": "if",
+      "name": "Interactive Fiction",
+      "tagline": "Choose-your-own AI stories",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/90/94/fb9094bf-d98d-11b1-d6c3-bcab4eefbd4a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.ifinteractive",
+      "iosUrl": "https://apps.apple.com/app/id6462828832",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.ifinteractive", "com.iphonegamesapps.if"]
+    },
+    {
+      "id": "golfcaddiepro",
+      "name": "Golf Caddie Pro",
+      "tagline": "Ask a sports pro, your AI caddie",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9c/64/349c6469-2320-acf3-287f-27c27514aa14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfcaddiepro",
+      "iosUrl": "https://apps.apple.com/app/id6451049942",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.golfcaddiepro"]
+    }
+  ]
+}
