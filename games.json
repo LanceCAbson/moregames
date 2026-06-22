@@ -1,10 +1,10 @@
 {
-  "version": 2,
+  "version": 3,
   "games": [
     {
       "id": "sleeplikeababy",
       "name": "Sleep like a Baby",
-      "tagline": "Relaxing sounds & sleep timer",
+      "tagline": "Fall asleep in minutes",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d8/e4/d7/d8e4d72c-43c0-5d44-c49f-44ccfbe158fc/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.sleeplikeababy",
       "iosUrl": "https://apps.apple.com/app/id1239102281",
@@ -14,7 +14,7 @@
     {
       "id": "sugarcubes",
       "name": "Sugar Cubes",
-      "tagline": "Addictive block puzzle",
+      "tagline": "Block puzzle with a twist",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/f6/e6/75f6e6fc-4f1a-efce-2bd6-13fc150bbb4e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.sugarcubesblockpuzzle",
       "iosUrl": "https://apps.apple.com/app/id6768653177",
@@ -34,7 +34,7 @@
     {
       "id": "dingdong2",
       "name": "Ding Dong Delivery",
-      "tagline": "Frantic delivery dash",
+      "tagline": "Deliver pizza, dodge zombies",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/dd/00/17/dd0017f9-ee77-1761-fa9a-b2761a048b19/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.dingdongdelivery2",
       "iosUrl": "https://apps.apple.com/app/id1068910435",
@@ -44,7 +44,7 @@
     {
       "id": "mystic",
       "name": "Mystic Maven",
-      "tagline": "AI mind-reader & mystery game",
+      "tagline": "Can she read your mind?",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/a9/ac/47/a9ac471e-8290-3505-8396-d2e708bf41a4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.mystic",
       "iosUrl": "https://apps.apple.com/app/id6478532849",
@@ -54,7 +54,7 @@
     {
       "id": "adventureai",
       "name": "AI Adventure",
-      "tagline": "Your story RPG, powered by AI",
+      "tagline": "Be the hero of any story",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/d1/4e/56d14eb6-84d6-f7dc-36bb-a762fc03ceb6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.adventureai",
       "iosUrl": "https://apps.apple.com/app/id1667095330",
@@ -64,7 +64,7 @@
     {
       "id": "if",
       "name": "Interactive Fiction",
-      "tagline": "Choose-your-own AI stories",
+      "tagline": "Infinite stories, any genre",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/90/94/fb9094bf-d98d-11b1-d6c3-bcab4eefbd4a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.ifinteractive",
       "iosUrl": "https://apps.apple.com/app/id6462828832",
@@ -74,7 +74,7 @@
     {
       "id": "golfcaddiepro",
       "name": "Golf Caddie Pro",
-      "tagline": "Ask a sports pro, your AI caddie",
+      "tagline": "Your pocket golf pro",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9c/64/349c6469-2320-acf3-287f-27c27514aa14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfcaddiepro",
       "iosUrl": "https://apps.apple.com/app/id6451049942",
