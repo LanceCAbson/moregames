@@ -1,6 +1,16 @@
 {
-  "version": 6,
+  "version": 7,
   "games": [
+    {
+      "id": "astrox",
+      "name": "AstroX",
+      "tagline": "Dodge everything, stay alive",
+      "iconUrl": "https://lancecabson.github.io/moregames/icons/astrox.png",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.astrox",
+      "iosUrl": "https://apps.apple.com/app/id6779113132",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.astrox"]
+    },
     {
       "id": "sleeplikeababy",
       "name": "Sleep like a Baby",
@@ -20,16 +30,6 @@
       "iosUrl": "https://apps.apple.com/app/id6768653177",
       "url": "",
       "bundleIds": ["com.iphonegamesapps.sugarcubesblockpuzzle"]
-    },
-    {
-      "id": "astrox",
-      "name": "AstroX",
-      "tagline": "Dodge everything, stay alive",
-      "iconUrl": "https://lancecabson.github.io/moregames/icons/astrox.png",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.astrox",
-      "iosUrl": "",
-      "url": "",
-      "bundleIds": ["com.iphonegamesapps.astrox"]
     },
     {
       "id": "dingdong2",
