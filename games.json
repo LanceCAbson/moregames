@@ -1,5 +1,6 @@
 {
-  "version": 7,
+  "version": 8,
+  "_note": "Cross-promo weighting updated 18 Aug 2026: golfballfinder, golfcaddiepro and if are each repeated 3x below (vs 1x for the rest) so MoreGamesBanner's round-robin shows them ~3x as often. This is a data-only change (no app rebuild needed) per Lance's request to redirect distribution toward underdistributed titles. Adjust the repeat count per app to retune.",
   "games": [
     {
       "id": "astrox",
@@ -12,6 +13,16 @@
       "bundleIds": ["com.iphonegamesapps.astrox"]
     },
     {
+      "id": "golfballfinder",
+      "name": "Golf Ball Finder",
+      "tagline": "Never lose another ball",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/82/42/5b8242f0-c24c-5354-ec7a-5509b6edfae2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfballfinder2",
+      "iosUrl": "https://apps.apple.com/app/id343604323",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.golfballfinder", "com.iphonegamesapps.golfballfinder2"]
+    },
+    {
       "id": "sleeplikeababy",
       "name": "Sleep like a Baby",
       "tagline": "Fall asleep in minutes",
@@ -20,6 +31,16 @@
       "iosUrl": "https://apps.apple.com/app/id1239102281",
       "url": "",
       "bundleIds": ["com.iphonegamesapps.sleeplikeababy"]
+    },
+    {
+      "id": "golfcaddiepro",
+      "name": "Golf Caddie Pro",
+      "tagline": "Your pocket golf pro",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9c/64/349c6469-2320-acf3-287f-27c27514aa14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfcaddiepro",
+      "iosUrl": "https://apps.apple.com/app/id6451049942",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.golfcaddiepro"]
     },
     {
       "id": "sugarcubes",
@@ -32,6 +53,16 @@
       "bundleIds": ["com.iphonegamesapps.sugarcubesblockpuzzle"]
     },
     {
+      "id": "if",
+      "name": "Interactive Fiction",
+      "tagline": "Infinite stories, any genre",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/90/94/fb9094bf-d98d-11b1-d6c3-bcab4eefbd4a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.ifinteractive",
+      "iosUrl": "https://apps.apple.com/app/id6462828832",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.ifinteractive", "com.iphonegamesapps.if"]
+    },
+    {
       "id": "dingdong2",
       "name": "Ding Dong Delivery",
       "tagline": "Deliver pizza, dodge zombies",
@@ -42,6 +73,16 @@
       "bundleIds": ["com.iphonegamesapps.dingdongdelivery2", "com.iphonegamesapps.dingdongdelivery"]
     },
     {
+      "id": "golfballfinder",
+      "name": "Golf Ball Finder",
+      "tagline": "Never lose another ball",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/82/42/5b8242f0-c24c-5354-ec7a-5509b6edfae2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfballfinder2",
+      "iosUrl": "https://apps.apple.com/app/id343604323",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.golfballfinder", "com.iphonegamesapps.golfballfinder2"]
+    },
+    {
       "id": "mystic",
       "name": "Mystic Maven",
       "tagline": "Can she read your mind?",
@@ -50,6 +91,16 @@
       "iosUrl": "https://apps.apple.com/app/id6478532849",
       "url": "",
       "bundleIds": ["com.iphonegamesapps.mystic"]
+    },
+    {
+      "id": "golfcaddiepro",
+      "name": "Golf Caddie Pro",
+      "tagline": "Your pocket golf pro",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9c/64/349c6469-2320-acf3-287f-27c27514aa14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfcaddiepro",
+      "iosUrl": "https://apps.apple.com/app/id6451049942",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.golfcaddiepro"]
     },
     {
       "id": "adventureai",
@@ -72,6 +123,16 @@
       "bundleIds": ["com.iphonegamesapps.ifinteractive", "com.iphonegamesapps.if"]
     },
     {
+      "id": "golfballfinder",
+      "name": "Golf Ball Finder",
+      "tagline": "Never lose another ball",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/82/42/5b8242f0-c24c-5354-ec7a-5509b6edfae2/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfballfinder2",
+      "iosUrl": "https://apps.apple.com/app/id343604323",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.golfballfinder", "com.iphonegamesapps.golfballfinder2"]
+    },
+    {
       "id": "golfcaddiepro",
       "name": "Golf Caddie Pro",
       "tagline": "Your pocket golf pro",
@@ -80,6 +141,16 @@
       "iosUrl": "https://apps.apple.com/app/id6451049942",
       "url": "",
       "bundleIds": ["com.iphonegamesapps.golfcaddiepro"]
+    },
+    {
+      "id": "if",
+      "name": "Interactive Fiction",
+      "tagline": "Infinite stories, any genre",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/fb/90/94/fb9094bf-d98d-11b1-d6c3-bcab4eefbd4a/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.ifinteractive",
+      "iosUrl": "https://apps.apple.com/app/id6462828832",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.ifinteractive", "com.iphonegamesapps.if"]
     }
   ]
 }
