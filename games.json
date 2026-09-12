@@ -1,11 +1,11 @@
 {
-  "version": 9,
+  "version": 10,
   "_note": "Cross-promo weighting updated 18 Aug 2026: golfballfinder, golfcaddiepro and if are each repeated 3x below (vs 1x for the rest) so MoreGamesBanner's round-robin shows them ~3x as often. This is a data-only change (no app rebuild needed) per Lance's request to redirect distribution toward underdistributed titles. Adjust the repeat count per app to retune.",
   "games": [
     {
       "id": "astrox",
       "name": "AstroX",
-      "tagline": "One tap. How long do you last?",
+      "tagline": "How long can you last?",
       "iconUrl": "https://lancecabson.github.io/moregames/icons/astrox.png",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.astrox",
       "iosUrl": "https://apps.apple.com/app/id6779113132",
