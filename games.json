@@ -1,11 +1,11 @@
 {
-  "version": 8,
+  "version": 9,
   "_note": "Cross-promo weighting updated 18 Aug 2026: golfballfinder, golfcaddiepro and if are each repeated 3x below (vs 1x for the rest) so MoreGamesBanner's round-robin shows them ~3x as often. This is a data-only change (no app rebuild needed) per Lance's request to redirect distribution toward underdistributed titles. Adjust the repeat count per app to retune.",
   "games": [
     {
       "id": "astrox",
       "name": "AstroX",
-      "tagline": "Dodge everything, stay alive",
+      "tagline": "One tap. How long do you last?",
       "iconUrl": "https://lancecabson.github.io/moregames/icons/astrox.png",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.astrox",
       "iosUrl": "https://apps.apple.com/app/id6779113132",
@@ -35,7 +35,7 @@
     {
       "id": "golfcaddiepro",
       "name": "Golf Caddie Pro",
-      "tagline": "Your pocket golf pro",
+      "tagline": "Know your yardage, every shot",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9c/64/349c6469-2320-acf3-287f-27c27514aa14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfcaddiepro",
       "iosUrl": "https://apps.apple.com/app/id6451049942",
@@ -45,7 +45,7 @@
     {
       "id": "sugarcubes",
       "name": "Sugar Cubes",
-      "tagline": "Block puzzle with a twist",
+      "tagline": "Easy to learn, hard to stop",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/75/f6/e6/75f6e6fc-4f1a-efce-2bd6-13fc150bbb4e/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.sugarcubesblockpuzzle",
       "iosUrl": "https://apps.apple.com/app/id6768653177",
@@ -95,7 +95,7 @@
     {
       "id": "golfcaddiepro",
       "name": "Golf Caddie Pro",
-      "tagline": "Your pocket golf pro",
+      "tagline": "Know your yardage, every shot",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9c/64/349c6469-2320-acf3-287f-27c27514aa14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfcaddiepro",
       "iosUrl": "https://apps.apple.com/app/id6451049942",
@@ -105,7 +105,7 @@
     {
       "id": "adventureai",
       "name": "AI Adventure",
-      "tagline": "Be the hero of any story",
+      "tagline": "Any story you can imagine",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/56/d1/4e/56d14eb6-84d6-f7dc-36bb-a762fc03ceb6/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.adventureai",
       "iosUrl": "https://apps.apple.com/app/id1667095330",
@@ -135,7 +135,7 @@
     {
       "id": "golfcaddiepro",
       "name": "Golf Caddie Pro",
-      "tagline": "Your pocket golf pro",
+      "tagline": "Know your yardage, every shot",
       "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/34/9c/64/349c6469-2320-acf3-287f-27c27514aa14/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
       "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfcaddiepro",
       "iosUrl": "https://apps.apple.com/app/id6451049942",
