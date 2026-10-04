@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "flags": {
+    "paywall_auto_enabled": true,
+    "paywall_auto_max": 4,
+    "paywall_auto_min_hours": 72,
+    "paywall_on_locked_tap": true,
+    "paywall_locktap_hours": 24
+  }
+}
