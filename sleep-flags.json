@@ -1,10 +1,32 @@
 {
-  "version": 1,
+  "version": 2,
   "flags": {
+    "premium_v2": true,
+    "trial_offer_enabled": true,
+    "trial_offer_max": 3,
+    "trial_offer_hours": 48,
+    "lapsed_paywall_enabled": true,
+    "lapsed_first_hours": 24,
+    "lapsed_second_hours": 336,
+    "legacy_offer_enabled": true,
+    "legacy_offer_max": 2,
+    "legacy_offer_hours": 504,
+    "legacy_offer_nights": 4,
+    "morning_ad_enabled": true,
+    "ad_content_rating": "PG",
+    "sleep_banner_idle_seconds": 20,
+    "personalise": true,
+    "nights_row_enabled": true,
+    "free_saved_mixes": 3,
+    "free_stories_per_night": 1,
+    "free_tracking_weeks": 1,
     "paywall_auto_enabled": true,
     "paywall_auto_max": 4,
     "paywall_auto_min_hours": 72,
     "paywall_on_locked_tap": true,
-    "paywall_locktap_hours": 24
+    "paywall_locktap_hours": 24,
+    "paywall_rating_enabled": true,
+    "paywall_rating_ios": "4.6",
+    "paywall_rating_android": ""
   }
 }
