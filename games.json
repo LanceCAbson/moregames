@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "_note": "Cross-promo weighting updated 18 Aug 2026: golfballfinder, golfcaddiepro and if are each repeated 3x below (vs 1x for the rest) so MoreGamesBanner's round-robin shows them ~3x as often. This is a data-only change (no app rebuild needed) per Lance's request to redirect distribution toward underdistributed titles. Adjust the repeat count per app to retune.",
   "games": [
     {
@@ -11,6 +11,16 @@
       "iosUrl": "https://apps.apple.com/app/id6779113132",
       "url": "",
       "bundleIds": ["com.iphonegamesapps.astrox"]
+    },
+    {
+      "id": "herekittykitty",
+      "name": "Here Kitty Kitty",
+      "tagline": "Hidden cats to find, every day",
+      "iconUrl": "https://kitty.abdev.co.uk/icon-512.png",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.herekittykitty",
+      "iosUrl": "",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.herekittykitty"]
     },
     {
       "id": "golfballfinder",
