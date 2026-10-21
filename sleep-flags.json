@@ -27,6 +27,9 @@
     "paywall_locktap_hours": 24,
     "paywall_rating_enabled": true,
     "paywall_rating_ios": "4.6",
-    "paywall_rating_android": ""
+    "paywall_rating_android": "",
+    "coach_enabled": true,
+    "coach_push": true,
+    "coach_langs": ""
   }
 }
