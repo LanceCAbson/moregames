@@ -1,7 +1,17 @@
 {
-  "version": 15,
+  "version": 16,
   "_note": "Cross-promo weighting updated 18 Aug 2026: golfballfinder, golfcaddiepro and if are each repeated 3x below (vs 1x for the rest) so MoreGamesBanner's round-robin shows them ~3x as often. This is a data-only change (no app rebuild needed) per Lance's request to redirect distribution toward underdistributed titles. Adjust the repeat count per app to retune.",
   "games": [
+    {
+      "id": "sleeplikeababy",
+      "name": "Sleep like a Baby",
+      "tagline": "Fall asleep in minutes",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/b2/3e/bdb23ee1-099d-4b77-e1a4-dcc1cf6fb2e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.sleeplikeababy",
+      "iosUrl": "https://apps.apple.com/app/id1239102281",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.sleeplikeababy"]
+    },
     {
       "id": "herekittykitty",
       "name": "Here Kitty Kitty",
@@ -61,16 +71,6 @@
       "iosUrl": "https://apps.apple.com/app/id343604323",
       "url": "",
       "bundleIds": ["com.iphonegamesapps.golfballfinder", "com.iphonegamesapps.golfballfinder2"]
-    },
-    {
-      "id": "sleeplikeababy",
-      "name": "Sleep like a Baby",
-      "tagline": "Fall asleep in minutes",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/bd/b2/3e/bdb23ee1-099d-4b77-e1a4-dcc1cf6fb2e4/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.sleeplikeababy",
-      "iosUrl": "https://apps.apple.com/app/id1239102281",
-      "url": "",
-      "bundleIds": ["com.iphonegamesapps.sleeplikeababy"]
     },
     {
       "id": "dingdong2",
