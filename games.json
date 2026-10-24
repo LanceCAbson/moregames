@@ -1,7 +1,27 @@
 {
-  "version": 14,
+  "version": 15,
   "_note": "Cross-promo weighting updated 18 Aug 2026: golfballfinder, golfcaddiepro and if are each repeated 3x below (vs 1x for the rest) so MoreGamesBanner's round-robin shows them ~3x as often. This is a data-only change (no app rebuild needed) per Lance's request to redirect distribution toward underdistributed titles. Adjust the repeat count per app to retune.",
   "games": [
+    {
+      "id": "herekittykitty",
+      "name": "Here Kitty Kitty",
+      "tagline": "Ten hidden cats, every day",
+      "iconUrl": "https://kitty.abdev.co.uk/icon-512.png",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.herekittykitty",
+      "iosUrl": "",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.herekittykitty"]
+    },
+    {
+      "id": "sugarcubes",
+      "name": "Sugar Cubes",
+      "tagline": "Easy to learn, hard to stop",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/8f/c2/788fc2b9-9584-56b9-cdcf-c1c6ec41b19f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.sugarcubesblockpuzzle",
+      "iosUrl": "https://apps.apple.com/app/id6768653177",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.sugarcubesblockpuzzle"]
+    },
     {
       "id": "astrox",
       "name": "AstroX",
@@ -13,14 +33,24 @@
       "bundleIds": ["com.iphonegamesapps.astrox"]
     },
     {
-      "id": "herekittykitty",
-      "name": "Here Kitty Kitty",
-      "tagline": "Ten hidden cats, every day",
-      "iconUrl": "https://kitty.abdev.co.uk/icon-512.png",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.herekittykitty",
-      "iosUrl": "",
+      "id": "adventureai",
+      "name": "AI Adventure",
+      "tagline": "Any story you can imagine",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/23/bc/a723bc83-579e-fe29-1a19-4a1c3d832e7b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.adventureai",
+      "iosUrl": "https://apps.apple.com/app/id1667095330",
       "url": "",
-      "bundleIds": ["com.iphonegamesapps.herekittykitty"]
+      "bundleIds": ["com.iphonegamesapps.adventureai"]
+    },
+    {
+      "id": "mystic",
+      "name": "Mystic Maven",
+      "tagline": "Can she read your mind?",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/f5/0c/ebf50ca4-c573-f432-5751-29679795080b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.mystic",
+      "iosUrl": "https://apps.apple.com/app/id6478532849",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.mystic"]
     },
     {
       "id": "golfballfinder",
@@ -43,16 +73,6 @@
       "bundleIds": ["com.iphonegamesapps.sleeplikeababy"]
     },
     {
-      "id": "sugarcubes",
-      "name": "Sugar Cubes",
-      "tagline": "Easy to learn, hard to stop",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/78/8f/c2/788fc2b9-9584-56b9-cdcf-c1c6ec41b19f/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.sugarcubesblockpuzzle",
-      "iosUrl": "https://apps.apple.com/app/id6768653177",
-      "url": "",
-      "bundleIds": ["com.iphonegamesapps.sugarcubesblockpuzzle"]
-    },
-    {
       "id": "dingdong2",
       "name": "Ding Dong Delivery",
       "tagline": "Deliver pizza, dodge zombies",
@@ -71,26 +91,6 @@
       "iosUrl": "https://apps.apple.com/app/id343604323",
       "url": "",
       "bundleIds": ["com.iphonegamesapps.golfballfinder", "com.iphonegamesapps.golfballfinder2"]
-    },
-    {
-      "id": "mystic",
-      "name": "Mystic Maven",
-      "tagline": "Can she read your mind?",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/eb/f5/0c/ebf50ca4-c573-f432-5751-29679795080b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.mystic",
-      "iosUrl": "https://apps.apple.com/app/id6478532849",
-      "url": "",
-      "bundleIds": ["com.iphonegamesapps.mystic"]
-    },
-    {
-      "id": "adventureai",
-      "name": "AI Adventure",
-      "tagline": "Any story you can imagine",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/a7/23/bc/a723bc83-579e-fe29-1a19-4a1c3d832e7b/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.adventureai",
-      "iosUrl": "https://apps.apple.com/app/id1667095330",
-      "url": "",
-      "bundleIds": ["com.iphonegamesapps.adventureai"]
     },
     {
       "id": "golfcaddiepro",
