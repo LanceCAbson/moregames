@@ -1,5 +1,5 @@
 {
-  "version": 13,
+  "version": 14,
   "_note": "Cross-promo weighting updated 18 Aug 2026: golfballfinder, golfcaddiepro and if are each repeated 3x below (vs 1x for the rest) so MoreGamesBanner's round-robin shows them ~3x as often. This is a data-only change (no app rebuild needed) per Lance's request to redirect distribution toward underdistributed titles. Adjust the repeat count per app to retune.",
   "games": [
     {
@@ -43,16 +43,6 @@
       "bundleIds": ["com.iphonegamesapps.sleeplikeababy"]
     },
     {
-      "id": "golfcaddiepro",
-      "name": "Golf Caddie Pro",
-      "tagline": "Know your yardage, every shot",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/55/d2/f755d29a-0c18-63e6-c78f-a162905da9d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfcaddiepro",
-      "iosUrl": "https://apps.apple.com/app/id6451049942",
-      "url": "",
-      "bundleIds": ["com.iphonegamesapps.golfcaddiepro"]
-    },
-    {
       "id": "sugarcubes",
       "name": "Sugar Cubes",
       "tagline": "Easy to learn, hard to stop",
@@ -61,16 +51,6 @@
       "iosUrl": "https://apps.apple.com/app/id6768653177",
       "url": "",
       "bundleIds": ["com.iphonegamesapps.sugarcubesblockpuzzle"]
-    },
-    {
-      "id": "if",
-      "name": "Interactive Fiction",
-      "tagline": "Infinite stories, any genre",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/55/9e/4a559eb6-6da9-84f7-f18d-5561dda9f5f3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.ifinteractive",
-      "iosUrl": "https://apps.apple.com/app/id6462828832",
-      "url": "",
-      "bundleIds": ["com.iphonegamesapps.ifinteractive", "com.iphonegamesapps.if"]
     },
     {
       "id": "dingdong2",
@@ -103,16 +83,6 @@
       "bundleIds": ["com.iphonegamesapps.mystic"]
     },
     {
-      "id": "golfcaddiepro",
-      "name": "Golf Caddie Pro",
-      "tagline": "Know your yardage, every shot",
-      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/55/d2/f755d29a-0c18-63e6-c78f-a162905da9d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
-      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfcaddiepro",
-      "iosUrl": "https://apps.apple.com/app/id6451049942",
-      "url": "",
-      "bundleIds": ["com.iphonegamesapps.golfcaddiepro"]
-    },
-    {
       "id": "adventureai",
       "name": "AI Adventure",
       "tagline": "Any story you can imagine",
@@ -121,6 +91,16 @@
       "iosUrl": "https://apps.apple.com/app/id1667095330",
       "url": "",
       "bundleIds": ["com.iphonegamesapps.adventureai"]
+    },
+    {
+      "id": "golfcaddiepro",
+      "name": "Golf Caddie Pro",
+      "tagline": "Know your yardage, every shot",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/55/d2/f755d29a-0c18-63e6-c78f-a162905da9d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfcaddiepro",
+      "iosUrl": "https://apps.apple.com/app/id6451049942",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.golfcaddiepro"]
     },
     {
       "id": "if",
@@ -141,6 +121,26 @@
       "iosUrl": "https://apps.apple.com/app/id343604323",
       "url": "",
       "bundleIds": ["com.iphonegamesapps.golfballfinder", "com.iphonegamesapps.golfballfinder2"]
+    },
+    {
+      "id": "golfcaddiepro",
+      "name": "Golf Caddie Pro",
+      "tagline": "Know your yardage, every shot",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/f7/55/d2/f755d29a-0c18-63e6-c78f-a162905da9d8/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.golfcaddiepro",
+      "iosUrl": "https://apps.apple.com/app/id6451049942",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.golfcaddiepro"]
+    },
+    {
+      "id": "if",
+      "name": "Interactive Fiction",
+      "tagline": "Infinite stories, any genre",
+      "iconUrl": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/4a/55/9e/4a559eb6-6da9-84f7-f18d-5561dda9f5f3/AppIcon-0-0-1x_U007emarketing-0-8-0-85-220.png/512x512bb.jpg",
+      "androidUrl": "https://play.google.com/store/apps/details?id=com.iphonegamesapps.ifinteractive",
+      "iosUrl": "https://apps.apple.com/app/id6462828832",
+      "url": "",
+      "bundleIds": ["com.iphonegamesapps.ifinteractive", "com.iphonegamesapps.if"]
     },
     {
       "id": "golfcaddiepro",
