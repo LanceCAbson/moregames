@@ -1,0 +1,4 @@
+{
+  "version": 1,
+  "_note": "Remote house-ad settings read by unity-shared CrossPromo/HouseAdRemote.cs (and Firebase Remote Config where an app has it). Keys: house_interstitial_percent (every game, 0-100) and house_interstitial_percent_<game> (zombie, sugar, astrox, sleep, mystic, golf, ai, if, ddd, hkk). No key = the app keeps its built-in default (5, and 0 for AI Adventure and Mystic). A global key also reaches AI Adventure and Mystic, which ship at 0 on purpose."
+}
