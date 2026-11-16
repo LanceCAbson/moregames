@@ -30,6 +30,7 @@
     "paywall_rating_android": "",
     "coach_enabled": true,
     "coach_push": true,
-    "coach_langs": ""
+    "coach_langs": "",
+    "paywall_variants": "B"
   }
 }
